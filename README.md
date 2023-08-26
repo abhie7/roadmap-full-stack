@@ -2,6 +2,8 @@
 
 A comprehensive roadmap to guide you through your web development learning journey. Remember, it's okay to explore tangents and take it one step at a time.
 
+## Credit - [Video Reference - Conner Ardman](https://www.youtube.com/watch?v=dPMk6_HTBq8)
+
 ## HTML Basics
 - [MDN HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
